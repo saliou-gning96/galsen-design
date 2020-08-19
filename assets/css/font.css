@@ -1,0 +1,25 @@
+@font-face {
+    font-family: INTER-FONT;
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/INTER-FONT/Inter-Regular.otf") format("woff");
+}
+
+@font-face {
+    font-family: INTER-FONT;
+    font-style: normal;
+    font-weight: 600;
+    src: url("../fonts/INTER-FONT/Inter-SemiBold.otf") format("woff");
+}
+
+@font-face {
+    font-family: INTER-FONT;
+    font-style: normal;
+    font-weight: bold;
+    src: url("../fonts/INTER-FONT/Inter-Bold.otf") format("woff");
+}
+
+body {
+    font-family: INTER-FONT;
+    color: #323232;
+}

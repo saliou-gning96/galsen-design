@@ -1,0 +1,40 @@
+.list-designer{
+    flex-wrap: wrap;
+    margin: 0px -15px;
+}
+
+.list-designer .item-designer{
+    width: 25%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 30px;
+}
+
+.list-designer .item-designer .designer{
+    border-radius: 8px;
+    border: solid 2px #e1e1e2;
+    padding: 30px;
+}
+
+.list-designer .item-designer .designer .designer-image img{
+    height: 150px;
+}
+
+.list-designer .item-designer .designer .designer-name{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.list-designer .item-designer .designer .designer-desc{
+    font-size: 14px;
+    line-height: 1.29;
+}
+
+.list-designer .item-designer .designer .designer-contact a{
+    font-size: 14px;
+    margin-top: 15px;
+    color: #323232;
+}

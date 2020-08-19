@@ -1,0 +1,17 @@
+header{
+    padding-top: 30px;
+}
+
+header .site-links .link-item{
+    margin-left: 50px;
+}
+
+header .site-links .link-item a{
+    color: #323232;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+header .site-links .link-item.active a{
+    color: #e02c26;
+}

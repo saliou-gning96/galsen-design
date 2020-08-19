@@ -1,0 +1,50 @@
+.block-jobs{
+    max-width: 920px;
+    margin: auto;
+}
+
+.block-jobs .block-title{
+    max-width: 730px;
+}
+
+.block-jobs .sub-title{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 15px;
+}
+
+.list-posts{
+    margin-top: 30px;
+    padding-bottom: 25px;
+    border-bottom: solid 2px #bfbfbf;
+}
+
+.list-posts .post{
+    border-radius: 8px;
+    border: solid 1px #bfbfbf;
+    background-color: #f5f5f5;
+    padding: 30px 60px;
+    margin-bottom: 25px;
+}
+
+.list-posts .post .post-title{
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 1.18;
+}
+
+.list-posts .post .post-date{
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 8px;
+}
+
+.list-posts .post .post-date a{
+    color: #e02c26;
+}
+
+.list-posts .post .post-desc{
+    font-size: 16px;
+    margin: 15px 0px;
+    line-height: 1.5;
+}

@@ -1,0 +1,89 @@
+.page-communaute .block-title{
+    max-width: 930px;
+    margin: auto;
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.page-communaute .block-title .page-title{
+    padding: 0px 20px;
+}
+
+.page-communaute .block-title .sub-title{
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.page-communaute .block-title .image-title{
+    height: 330px;
+    margin-bottom: 30px;
+}
+
+.page-communaute .block-tweets .tweet-title{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.page-communaute .block-tweets .tweet-title span{
+    color: #e02c26;
+}
+
+.page-communaute .block-tweets .list-tweet{
+    margin-bottom: 30px;
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+    -webkit-column-gap: 35px;
+    -moz-column-gap: 35px;
+    column-gap: 35px;
+    orphans: 1;
+    widows: 1;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item{
+    border-radius: 8px;
+    border: solid 1px #e1e1e2;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-image{
+    width: 100%;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc{
+    padding: 25px;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc .desc-title .author img{
+    height: 32px;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc .desc-title .author-desc{
+    padding-left: 10px;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc .desc-title .author{
+    margin-bottom: 15px;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc .desc-title .author .author-desc .name{
+    font-size: 14px;
+    font-weight: bold;
+    color: #e02c26;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc .desc-title .author .author-desc .tags{
+    font-size: 12px;
+    color: #adadad;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc .desc-text{
+    font-size: 14px;
+}
+
+.page-communaute .block-tweets .list-tweet .tweet-item .tweet-desc .desc-text span{
+    color: #e02c26;
+}
